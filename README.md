@@ -8,4 +8,7 @@ Start with:
 Or dev mode:
 `npm run dev`
 
-![image](https://github.com/K-gns/PhotoUploadApp/assets/83177627/911a28d2-2fae-4778-801c-49d9f69d0454)
+![image](https://github.com/K-gns/PhotoUploadApp/assets/83177627/e1905eda-fb01-4ae6-bf2e-cb0b3bd05ab6)
+
+
+![image](https://github.com/K-gns/PhotoUploadApp/assets/83177627/e7569302-a465-4be4-9acb-5dd8b7f85366)
